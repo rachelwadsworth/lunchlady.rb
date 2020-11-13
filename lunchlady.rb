@@ -75,7 +75,7 @@ menu
 
 appatizers_count =0
 
-while appatizer_count < 2 do
+while appatizers_count < 2 do
   appatizers_count = appatizers_count + 1
   appatizers
 end
